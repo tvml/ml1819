@@ -275,7 +275,14 @@ section #title .credits.right { float: right; }
 @media print, screen and (max-width: 480px) { #header { margin-top: -20px; }
   section { margin-top: 40px; }
   nav { display: none; } }
+body { background: #e8e8e8; color: #343837; }
+
 section { max-width: 850px; padding: 30px 0px 0px 0px; margin: 20px 0; margin-top: 70px; margin-left: 150px; }
+section #title { border: 0; outline: none; margin: 0 0 50px 0; padding: 0 0 5px 0; }
+section #title h1 { font-weight: bold; color: #0485d1; }
+section #title p { font-weight: bold; color: #ff5b00; }
+
+a { color: #016795; }
 
 posts { max-width: 850px; padding: 30px 0px 0px 0px; margin: 20px 0; margin-top: 70px; margin-left: 0px; }
 
@@ -285,15 +292,15 @@ body > header h1 > a { text-decoration: none; }
 
 body > header h4 { margin-top: -10px; }
 
-h2 { width: 100%; min-width: 840px; color: #FF733A; }
+h2 { width: 100%; min-width: 840px; color: #f0944d; }
 
-h3 { width: 100%; min-width: 840px; color: #3f7c98; }
+h3 { width: 100%; min-width: 840px; color: #c74767; }
 
-h4 { width: 100%; min-width: 840px; color: #d3494e; }
+h4 { width: 100%; min-width: 840px; color: #1fb57a; }
 
 h2, h3, h4 { width: 100%; min-width: 840px; }
 
-hr { margin-left: 0; padding-left: 0; width: 100%; min-width: 840px; }
+hr { margin-left: 0; padding-left: 0; width: 100%; min-width: 840px; background: #1e9167; }
 
 pre { margin-left: 30px; padding: 5px; width: 80%; }
 
