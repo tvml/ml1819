@@ -6,6 +6,6 @@ L'insegnamento di Machine Learning è offerto all'interno del Corso di Laurea Ma
 
 
 {:.center}
-![]({{ site.baseurl }}/assets/images/img2.png)
+![]({{ site.baseurl }}/assets/images/img4.png)
 
 
