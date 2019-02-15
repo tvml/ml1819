@@ -9,9 +9,8 @@ layout: default
 
 Le lezioni del corso si svolgono:
 
-* il Lunedì dalle ore 16.30 alle 19.00 in aula 7
+* da definire
 
-* il Giovedì dalle ore 14.00 alle 16.30 in aula 7
 
 #### Ricevimento
 
@@ -50,7 +49,7 @@ offerte da librerie software ampiamente utilizzate nel settore.
 
 ### Materiale didattico
 
-Il testo di riferimento è il seguente:
+Il testo di riferimento principale è il seguente:
 `M. Bishop "Pattern Recognition and Machine Learning", Springer 2006`{:.alert}
 
 Saranno inoltre suggeriti altri testi sull'argomento liberamente disponibili in
