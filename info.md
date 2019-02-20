@@ -9,7 +9,10 @@ layout: default
 
 Le lezioni del corso si svolgono:
 
-* da definire
+* Martedì h. 14.30-17.30 aula G2B
+* Giovedì h. 14.30-17.30 aula G2B
+
+Le lezioni avranno inizio martedì 12-3-2019
 
 
 #### Ricevimento
