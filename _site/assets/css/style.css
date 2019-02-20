@@ -292,11 +292,11 @@ body > header h1 > a { text-decoration: none; }
 
 body > header h4 { margin-top: -10px; }
 
-h2 { width: 100%; min-width: 840px; color: #f0944d; }
+h2 { width: 100%; min-width: 840px; color: #ec681c; }
 
 h3 { width: 100%; min-width: 840px; color: #c74767; }
 
-h4 { width: 100%; min-width: 840px; color: #1fb57a; }
+h4 { width: 100%; min-width: 840px; color: #0f8361; }
 
 h2, h3, h4 { width: 100%; min-width: 840px; }
 
@@ -348,7 +348,7 @@ section address { margin-left: 15px; }
 
 .more { margin-left: 80%; }
 
-.filelink { color: #ffb07c; }
+.filelink { color: #643ebb; }
 
 .filelink:hover { color: #696969; }
 
