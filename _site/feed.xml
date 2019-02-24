@@ -1,19 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/ml1819/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ml1819/" rel="alternate" type="text/html" /><updated>2019-02-21T12:47:46+01:00</updated><id>http://localhost:4000/ml1819/</id><title type="html">Machine learning</title><subtitle>Corso di Machine Learning, CdLM in Informatica - Universita' di Roma Tor Vergata</subtitle><author><name>Giorgio Gambosi</name></author><entry><title type="html">Ambiente di programmazione Python</title><link href="http://localhost:4000/ml1819/comunicazioni/2019/02/15/python/" rel="alternate" type="text/html" title="Ambiente di programmazione Python" /><published>2019-02-15T00:00:00+01:00</published><updated>2019-02-15T00:00:00+01:00</updated><id>http://localhost:4000/ml1819/comunicazioni/2019/02/15/python</id><content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/2019/02/15/python/">&lt;p&gt;Per la programmazione in Python, si suggerisce di utilizzare la distribuzione &lt;a href=&quot;[https://conda.io/docs/user-guide/overview.html]&quot;&gt;Anaconda&lt;/a&gt;. Le istruzioni per l’installazione si trovano &lt;a href=&quot;https://docs.anaconda.com/anaconda/install/&quot;&gt;qui&lt;/a&gt;. Una volta effettuata l’installazione, si consiglia di utilizzare &lt;a href=&quot;https://docs.anaconda.com/anaconda/navigator/&quot;&gt;Anaconda Navigator&lt;/a&gt; per l’eventuale gestione dei packages e per lanciare l’editor e ambiente di programmazione Spyder o, in alternativa, Jupyter Notebook.&lt;/p&gt;</content><author><name>Giorgio Gambosi</name></author><summary type="html">Per la programmazione in Python, si suggerisce di utilizzare la distribuzione Anaconda. Le istruzioni per l’installazione si trovano qui. Una volta effettuata l’installazione, si consiglia di utilizzare Anaconda Navigator per l’eventuale gestione dei packages e per lanciare l’editor e ambiente di programmazione Spyder o, in alternativa, Jupyter Notebook.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/ml1819/biblio/jekyll,/update/2017/10/22/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2017-10-22T00:00:00+02:00</published><updated>2017-10-22T00:00:00+02:00</updated><id>http://localhost:4000/ml1819/biblio/jekyll,/update/2017/10/22/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/ml1819/biblio/jekyll,/update/2017/10/22/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Giorgio Gambosi</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Testi non tecnici</title><link href="http://localhost:4000/ml1819/biblio/2017/09/12/testi-non-tecnici/" rel="alternate" type="text/html" title="Testi non tecnici" /><published>2017-09-12T00:00:00+02:00</published><updated>2017-09-12T00:00:00+02:00</updated><id>http://localhost:4000/ml1819/biblio/2017/09/12/testi-non-tecnici</id><content type="html" xml:base="http://localhost:4000/ml1819/biblio/2017/09/12/testi-non-tecnici/">&lt;p&gt;Per chi fosse interessato a testi a carattere non tecnico, inerenti le tematiche del corso, si suggeriscono i titoli seguenti:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;P. Domingos “L’Algoritmo Definitivo: La macchina che impara da sola e il futuro del nostro mondo” Bollati  Boringhieri 2016&lt;/li&gt;
-  &lt;li&gt;C. O’Neil “Armi di distruzione matematica”  Bompiani 2017&lt;/li&gt;
-  &lt;li&gt;S. Bertsch McGrayne “The Theory That Would Not Die: How Bayes’ Rule Cracked the Enigma Code, Hunted Down Russian Submarines, and Emerged Triumphant from Two Centuries” Yale Univ. Press 2012&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Giorgio Gambosi</name></author><summary type="html">Per chi fosse interessato a testi a carattere non tecnico, inerenti le tematiche del corso, si suggeriscono i titoli seguenti:</summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/new-ml/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/new-ml/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Machine learning</title>
+		<description>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</description>
+		<link>http://localhost:4000/new-ml/</link>
+		<atom:link href="http://localhost:4000/new-ml/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Ambiente di programmazione Python</title>
+				<link>http://localhost:4000/new-ml/comunicazioni/python/</link>
+				<pubDate>Fri, 15 Feb 2019 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Per la programmazione in Python, si suggerisce di utilizzare la distribuzione &lt;a href=&quot;[https://conda.io/docs/user-guide/overview.html]&quot;&gt;Anaconda&lt;/a&gt;. Le istruzioni per l’installazione si trovano &lt;a href=&quot;https://docs.anaconda.com/anaconda/install/&quot;&gt;qui&lt;/a&gt;. Una volta effettuata l’installazione, si consiglia di utilizzare &lt;a href=&quot;https://docs.anaconda.com/anaconda/navigator/&quot;&gt;Anaconda Navigator&lt;/a&gt; per l’eventuale gestione dei packages e per lanciare l’editor e ambiente di programmazione Spyder o, in alternativa, Jupyter Notebook.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/new-ml/comunicazioni/python/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 3</title>
+				<link>http://localhost:4000/new-ml/lezioni/lezione-3/</link>
+				<pubDate>Mon, 19 Mar 2018 00:00:00 +0100</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/new-ml/lezioni/lezione-3/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 2</title>
+				<link>http://localhost:4000/new-ml/lezioni/lezione-2/</link>
+				<pubDate>Thu, 15 Mar 2018 00:00:00 +0100</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/new-ml/lezioni/lezione-2/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 1</title>
+				<link>http://localhost:4000/new-ml/lezioni/lezione-1/</link>
+				<pubDate>Mon, 12 Mar 2018 00:00:00 +0100</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/new-ml/lezioni/lezione-1/</guid>
+			</item>
+		
+	</channel>
+</rss>

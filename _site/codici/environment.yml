@@ -1,14 +1,12 @@
-name: example-environment
+name: ml1819
 channels:
   - conda-forge
+  - defaults
 dependencies:
+  - python
+  - ipython
+  - jupyter
   - numpy
   - pandas
   - sklearn
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
-  
