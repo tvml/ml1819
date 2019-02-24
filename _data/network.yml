@@ -1,10 +1,5 @@
 - menu_name: "Thanks to"
 
-- name: "Icons by Daniel Bruce"
-  url: "http://entypo.com/"
-  class: "network-entypo"
-  title: "Icons by Daniel Bruce"
-
 - name: "Foundation"
   url: "http://foundation.zurb.com/"
   class: "services-newsletter"
@@ -24,6 +19,11 @@
   url: "https://jekyllrb.com/"
   class: "services-newsletter"
   title: "Jekyll"  
+  
+- name: "Icons by Daniel Bruce"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Entypo icons"
 
 #- name: "Images by Unsplash"
 #  url: "http://unsplash.com/"
