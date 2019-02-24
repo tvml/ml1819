@@ -1,11 +1,11 @@
-- menu_name: "Services"
+- menu_name: "Contatti"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Mail"
+  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning"
+  title: "Mail"
 
 - name: "Twitter"
-  url: "http://twitter.com/hashtag/tvml1819"
+  url: "https://twitter.com/tvmlclass"
   title: "Segui tweet"
 
 #- name: "Atom"

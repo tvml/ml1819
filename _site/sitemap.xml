@@ -5,9 +5,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/404.html</loc>
+	<loc>http://localhost:4000/ml1819/404.html</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,26 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/blog/archive/</loc>
+	<loc>http://localhost:4000/ml1819/blog/archive/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/atom.xml</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,9 +37,26 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/biblio/</loc>
+	<loc>http://localhost:4000/ml1819/atom.xml</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/biblio/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,24 +69,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/codici/</loc>
+	<loc>http://localhost:4000/ml1819/codici/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/comunicazioni/</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -99,24 +84,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/contact/</loc>
+	<loc>http://localhost:4000/ml1819/comunicazioni/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/dataset/</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -129,24 +99,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/feed.xml</loc>
+	<loc>http://localhost:4000/ml1819/contact/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/humans.txt</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -159,24 +114,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/blog/</loc>
+	<loc>http://localhost:4000/ml1819/dataset/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -189,24 +129,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/info/</loc>
+	<loc>http://localhost:4000/ml1819/feed.xml</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/lezioni/</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -219,24 +144,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/lucidi/</loc>
+	<loc>http://localhost:4000/ml1819/humans.txt</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/progetti/</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -249,24 +159,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/programma/</loc>
+	<loc>http://localhost:4000/ml1819/blog/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/redirect-page/</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,9 +174,114 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/robots.txt</loc>
+	<loc>http://localhost:4000/ml1819/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/info/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/lezioni/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/lucidi/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/progetti/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/programma/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/redirect-page/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/robots.txt</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -298,24 +298,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/search/</loc>
+	<loc>http://localhost:4000/ml1819/search/</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/new-ml/sitemap.xml</loc>
-	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -328,9 +313,24 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/store/</loc>
+	<loc>http://localhost:4000/ml1819/sitemap.xml</loc>
 	
-		<lastmod>2019-02-24T02:33:19+01:00</lastmod>
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/ml1819/store/</loc>
+	
+		<lastmod>2019-02-24T18:18:10+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -348,7 +348,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/comunicazioni/python/</loc>
+	<loc>http://localhost:4000/ml1819/comunicazioni/python/</loc>
 	
 		<lastmod>2019-02-15T00:00:00+01:00</lastmod>
 	
@@ -363,7 +363,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/lezioni/lezione-3/</loc>
+	<loc>http://localhost:4000/ml1819/lezioni/lezione-3/</loc>
 	
 		<lastmod>2018-03-19T00:00:00+01:00</lastmod>
 	
@@ -378,7 +378,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/lezioni/lezione-2/</loc>
+	<loc>http://localhost:4000/ml1819/lezioni/lezione-2/</loc>
 	
 		<lastmod>2018-03-15T00:00:00+01:00</lastmod>
 	
@@ -393,7 +393,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/new-ml/lezioni/lezione-1/</loc>
+	<loc>http://localhost:4000/ml1819/lezioni/lezione-1/</loc>
 	
 		<lastmod>2018-03-12T00:00:00+01:00</lastmod>
 	

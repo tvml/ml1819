@@ -9,8 +9,8 @@
 			<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Atom Feed (Styled)</title>
-	<link rel="stylesheet" type="text/css" href="http://localhost:4000/new-ml/assets/css/styles_feeling_responsive.css" />
-	<script src="http://localhost:4000/new-ml/assets/js/modernizr.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://localhost:4000/ml1819/assets/css/styles_feeling_responsive.css" />
+	<script src="http://localhost:4000/ml1819/assets/js/modernizr.min.js"></script>
 
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
   <script>
@@ -111,7 +111,7 @@
 	
 	<meta property="og:title" content="Atom Feed (Styled)" />
 	<meta property="og:description" content="Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata." />
-	<meta property="og:url" content="http://localhost:4000/new-ml//assets/xslt/atom.xslt" />
+	<meta property="og:url" content="http://localhost:4000/ml1819//assets/xslt/atom.xslt" />
 	<meta property="og:site_name" content="Machine learning" />
 	
 
@@ -120,7 +120,7 @@
 	<!-- Search Engine Optimization -->
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/new-ml/humans.txt" />
+	<link type="text/plain" rel="author" href="http://localhost:4000/ml1819/humans.txt" />
 
 	
 
@@ -135,7 +135,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/new-ml" class="icon-tree"> Machine learning</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/ml1819" class="icon-tree"> Machine learning</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Navigation</span></a></li>
@@ -223,7 +223,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/">Start</a></li>
+              <li><a href="http://localhost:4000/ml1819/">Start</a></li>
               <li class="divider"></li>
 
             
@@ -238,7 +238,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/info/">Informazioni</a></li>
+              <li><a href="http://localhost:4000/ml1819/info/">Informazioni</a></li>
               <li class="divider"></li>
 
             
@@ -253,7 +253,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/programma/">programma</a></li>
+              <li><a href="http://localhost:4000/ml1819/programma/">programma</a></li>
               <li class="divider"></li>
 
             
@@ -268,7 +268,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/lucidi/">lucidi</a></li>
+              <li><a href="http://localhost:4000/ml1819/lucidi/">lucidi</a></li>
               <li class="divider"></li>
 
             
@@ -283,7 +283,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/codici/">codici</a></li>
+              <li><a href="http://localhost:4000/ml1819/codici/">codici</a></li>
               <li class="divider"></li>
 
             
@@ -298,7 +298,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/dataset/">dataset</a></li>
+              <li><a href="http://localhost:4000/ml1819/dataset/">dataset</a></li>
               <li class="divider"></li>
 
             
@@ -313,7 +313,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/comunicazioni/">Comunicazioni</a></li>
+              <li><a href="http://localhost:4000/ml1819/comunicazioni/">Comunicazioni</a></li>
               <li class="divider"></li>
 
             
@@ -328,7 +328,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/lezioni/">Lezioni</a></li>
+              <li><a href="http://localhost:4000/ml1819/lezioni/">Lezioni</a></li>
               <li class="divider"></li>
 
             
@@ -343,7 +343,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/progetti/">Progetti</a></li>
+              <li><a href="http://localhost:4000/ml1819/progetti/">Progetti</a></li>
               <li class="divider"></li>
 
             
@@ -358,7 +358,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/store/">Store</a></li>
+              <li><a href="http://localhost:4000/ml1819/store/">Store</a></li>
               <li class="divider"></li>
 
             
@@ -373,7 +373,7 @@
 
             
             
-              <li><a href="http://localhost:4000/new-ml/biblio/">Bibliografia</a></li>
+              <li><a href="http://localhost:4000/ml1819/biblio/">Bibliografia</a></li>
               <li class="divider"></li>
 
             
@@ -393,7 +393,7 @@
 			<div class="small-12 columns">
 				<a id="logo" href="http://localhost:4000" title="Machine learning – Università di Roma Tor Vergata">
 				<p style="text-align:center;">
-					<img src="http://localhost:4000/new-ml/assets/img/" alt="Machine learning – Università di Roma Tor Vergata">
+					<img src="http://localhost:4000/ml1819/assets/img/" alt="Machine learning – Università di Roma Tor Vergata">
 				</p>
 				</a>
 			</div><!-- /.small-12.columns -->
@@ -472,7 +472,7 @@
           <div class="small-6 medium-3 large-3 large-offset-1 columns">
             
               
-                <h5 class="shadow-black">Services</h5>
+                <h5 class="shadow-black">Contatti</h5>
               
             
               
@@ -484,17 +484,17 @@
               
                 
                   <li >
-                    <a href="/new-ml"  title=""></a>
+                    <a href="/ml1819"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="/new-ml/contact/"  title="Contact">Contact</a>
+                    <a href="mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning"  title="Mail">Mail</a>
                   </li>
               
                 
                   <li >
-                    <a href="http://twitter.com/hashtag/tvml1819" target="_blank"  title="Segui tweet">Twitter</a>
+                    <a href="https://twitter.com/tvmlclass" target="_blank"  title="Segui tweet">Twitter</a>
                   </li>
               
               </ul>
@@ -518,7 +518,7 @@
             
               
                 <li >
-                  <a href="/new-ml"  title=""></a>
+                  <a href="/ml1819"  title=""></a>
                 </li>
             
               
@@ -556,7 +556,7 @@
           <section id="subfooter-right" class="small-12 medium-6 columns social-icons">
             <ul class="inline-list">
             
-              <li><a href="http://github.com/" target="_blank" class="icon-github" title=""></a></li>
+              <li><a href="http://github.com/ml1819" target="_blank" class="icon-github" title=""></a></li>
             
               <li><a href="http://www.youtube.com/" target="_blank" class="icon-youtube" title=""></a></li>
             
@@ -571,7 +571,7 @@
 		
 
 
-<script src="http://localhost:4000/new-ml/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/ml1819/assets/js/javascript.min.js"></script>
 
 
 
