@@ -35,6 +35,7 @@ Manuali per l'utilizzo di strumenti e librerie software
 * Documentazione distribuzione [Anaconda](https://conda.io/docs/user-guide/index.html)
 * Documentazione editor IDE [Spyder](https://pythonhosted.org/spyder/)
 * Documentazione ambiente [Jupyter/IPython Notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)
+* Doumentazione ambiente [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/)
 * Documentazione dei package [Scipy e Numpy](https://docs.scipy.org/doc/)
 * Documentazione package [Matplotlib](https://matplotlib.org/users/index.html)
 * Documentazione package [Pandas](https://pandas.pydata.org)
