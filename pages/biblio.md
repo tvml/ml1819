@@ -17,8 +17,8 @@ Introduzioni a Python e ai temi del ML liberamente disponibili su Internet
 * A.B.Downey. [Think Python](http://greenteapress.com/wp/think-python-2e/)
 * A.B.Downey. [Think Stats](http://greenteapress.com/wp/think-stats-2e/)
 
-### Testi di ML liberi
-Testi di ML liberamente disponibili su Internet 
+### Testi di Machine Learning liberi
+Testi di Machine Learning liberamente disponibili su Internet 
 
 * D. Barber. [Bayesian Reasoning and Machine Learning]([http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 
@@ -38,6 +38,7 @@ Manuali per l'utilizzo di strumenti e librerie software
 * Documentazione dei package [Scipy e Numpy](https://docs.scipy.org/doc/)
 * Documentazione package [Matplotlib](https://matplotlib.org/users/index.html)
 * Documentazione package [Pandas](https://pandas.pydata.org)
+* Documentazione package [Pymc3](https://docs.pymc.io)
 * [`Cheat sheet`{:.filelink}]({{ site.baseurl }}{%link varie/python_cheat_sheet.pdf %}) riassuntivi Python 
 
 
