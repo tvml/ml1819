@@ -1,27 +1,29 @@
-- name: GitHub
-  url: http://github.com/ml1819
-  class: icon-github
+- name: Mail
+  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning"
+  class: icon-mail
   title: ""
-
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
-  title: ""
-
+  
 - name: Twitter
-  url: http://twitter.com/
+  url: https://twitter.com/tvmlclass
   class: icon-twitter
   title: ""
 
-# - name: Mixcloud
-#   url: http://www.mixcloud.com/
-#   class: icon-cloud
-#   title: ""
+- name: GitHub
+  url: http://github.com/tvml/ml1819
+  class: icon-github
+  title: ""
 
 # - name: Facebook
 #   url: http://www.facebook.com/
 #   class: icon-facebook
 #   title: ""
+
+
+
+#- name: YouTube
+#  url: http://www.youtube.com/
+#  class: icon-youtube
+#  title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/

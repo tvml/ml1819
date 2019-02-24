@@ -1,12 +1,12 @@
 - menu_name: "Contatti"
 
 - name: "Mail"
-  url: "mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning"
+  url: "giorgio.gambosi@uniroma2.it"
   title: "Mail"
 
 - name: "Twitter"
-  url: "https://twitter.com/tvmlclass"
-  title: "Segui tweet"
+  url: "twitter.com/tvmlclass"
+  title: "Twitter"
 
 #- name: "Atom"
 #  url: "/atom.xml"
