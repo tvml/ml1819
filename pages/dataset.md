@@ -7,6 +7,8 @@ permalink: /dataset/
 header: no
 ---
 
+Raccolta di dataset utilizzati nei precedenti a.a., inseriti a scopo indicativo. 
+
 <!--1. [`Jane Austen.`{:.datalink}]({{ site.baseurl }}{%link dataset/austen.jpg %}) Immagine di Jane Austen-->
 
 1. [`Iris.`{:.datalink}]({{ site.baseurl }}{%link dataset/iris.csv %}) Classificazione iris per caratteristiche di petalo e sepalo.

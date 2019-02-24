@@ -6,6 +6,9 @@ teaser: ""
 permalink: /codici/
 header: no
 ---
+
+Raccolta di programmi utilizzati nei precedenti a.a., inseriti a scopo indicativo. 
+
 1. [`iris.`{:.codelink}]({{ site.baseurl }}{%link codici/iris.py %}) Visualizzazione del dataset Iris (script)
 1. [`linregrsk.`{:.codelink}]({{ site.baseurl }}{%link codici/linregrsk.py %}) Regressione lineare su scikit-learn (script)
 1. [`linregr.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr.py %}) Visualizzazione andamento errore in regressione (script)

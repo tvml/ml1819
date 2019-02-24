@@ -8,10 +8,10 @@
   class: icon-twitter
   title: ""
 
-- name: GitHub
-  url: http://github.com/tvml/ml1819
-  class: icon-github
-  title: ""
+#- name: GitHub
+#  url: http://github.com/tvml/ml1819
+#  class: icon-github
+#  title: ""
 
 # - name: Facebook
 #   url: http://www.facebook.com/
