@@ -4,7 +4,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/ml1819/</id>
 	<title>Machine learning</title>
+<<<<<<< HEAD
 	<updated>2019-02-25T19:53:16+01:00</updated>
+=======
+	<updated>2019-02-25T12:08:11+01:00</updated>
+>>>>>>> 20cafc279d8a6f34fd80f106d734791adacdbb8c
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
