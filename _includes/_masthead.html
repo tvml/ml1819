@@ -148,24 +148,17 @@
 
 {% elsif page.header == false %}
 <div id="masthead-with-background-color" style="background: #3a5373; padding-left:0px;">
-	<div class="row medium-uncollapse large-collapse">
+	<div class="row">
 		<div class="small-1 columns">
-			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.side_image}}" width="60" itemprop="image">
+			<img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.side_image}}" itemprop="image">
 		</div>
-		<div class="small-8 columns">
-			<div class="masthead-title"  style="padding:0px">
+		<div class="small-11 columns">
+			<!--div class="masthead-title"  style="padding:0px"-->
 				<font color="white" size="6">
 					{{page.title}}
 				</font>
-			</div>
-			<div class="masthead-title" style="padding:0px"><font color="yellow" size="4">
-				</font>
-			</div>
-			<div class="masthead-title" style="padding:0px"><font color="orange" size="3">
-				</font>
-			</div>
+			<!--/div-->
 		</div>
-			</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
 </div><!-- /#masthead -->
 
