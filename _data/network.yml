@@ -1,9 +1,9 @@
 - menu_name: "Thanks to"
   
-- name: "Github"
-  url: "https://github.com/"
-  class: "services-newsletter"
-  title: "Github"
+#- name: "Github"
+#  url: "https://github.com/"
+#  class: "services-newsletter"
+#  title: "Github"
   
 - name: "Github pages"
   url: "https://pages.github.com/"
