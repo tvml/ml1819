@@ -38,15 +38,57 @@
               {% endif %}
             {% endfor %}
               
-            <ul class="no-bullet shadow-black">
+            <!--ul class="no-bullet shadow-black">
             {% for network_item in site.data.network %}
               {% if network_item.url contains 'http' %}{% assign domain = '' %}{% else %}{% assign domain = site.baseurl %}{% endif %}
                 <li {% if network_item.class %}class="{{ network_item.class }}" {% endif %}>
                   <a href="{{ domain }}{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">{{ network_item.name }}</a>
                 </li>
             {% endfor %}
-            </ul>
+            </ul-->
+            <div class="row shadow-black collapse">
+            	<div class="small-5 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="https://github.com/" target="_blank"  title="Github">Github
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            	<div class="small-7 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="https://pages.github.com/" target="_blank"  title="Github pages">Github pages
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            </div>
+          
+          <div class="row shadow-black collapse">
+            	<div class="small-5 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="https://jekyllrb.com/" target="_blank"  title="Jekyll">Jekyll
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a></font></span></div>
+            </div>
+            <div class="row shadow-black collapse">
+            	<div class="small-5 columns">
+            		<span  class="network-entypo">
+            			<font  size='2'>
+            				<a href="http://entypo.com/" target="_blank"  title="Entypo icons">Entypo icons
+            				</a>
+            			</font>
+            		</span>
+            	</div>
+            	<div class="small-7 columns"><span  class="network-entypo"><font  size='2'><a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a></font></span></div>
+            </div>
           </div><!-- /.large-3.columns -->
+          
         </div><!-- /.row -->
 
       </div><!-- /#footer -->
