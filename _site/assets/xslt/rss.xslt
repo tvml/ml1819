@@ -518,21 +518,13 @@
               
             
               
+            
+              
             <ul class="no-bullet shadow-black">
             
               
                 <li >
                   <a href="/ml1819"  title=""></a>
-                </li>
-            
-              
-                <li class="network-entypo" >
-                  <a href="http://entypo.com/" target="_blank"  title="Icons by Daniel Bruce">Icons by Daniel Bruce</a>
-                </li>
-            
-              
-                <li class="services-newsletter" >
-                  <a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a>
                 </li>
             
               
@@ -548,6 +540,21 @@
               
                 <li class="services-newsletter" >
                   <a href="https://jekyllrb.com/" target="_blank"  title="Jekyll">Jekyll</a>
+                </li>
+            
+              
+                <li class="services-newsletter" >
+                  <a href="http://foundation.zurb.com/" target="_blank"  title="Foundation">Foundation</a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="http://entypo.com/" target="_blank"  title="Entypo icons">Entypo icons</a>
+                </li>
+            
+              
+                <li class="network-entypo" >
+                  <a href="https://xkcd.com/" target="_blank"  title="Xkcd comics">Xkcd comics</a>
                 </li>
             
             </ul>
@@ -573,8 +580,6 @@
               <li><a href="mailto:giorgio.gambosi@uniroma2.it?&subject=Corso%20Machine%20learning" target="_blank" class="icon-mail" title=""></a></li>
             
               <li><a href="https://twitter.com/tvmlclass" target="_blank" class="icon-twitter" title=""></a></li>
-            
-              <li><a href="http://github.com/tvml/ml1819" target="_blank" class="icon-github" title=""></a></li>
             
             </ul>
           </section>
