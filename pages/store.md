@@ -13,6 +13,7 @@ header: no
 <!--1. [`Richiami di probabilita' e statistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probstat.pdf %}) Riassunto dei concetti fondamentali del caclcolo delle probablità e della statistica utili nell'ambito del corso-->
 
 
-Prima versione delle[`note`{:.codelink}]({{ site.baseurl }}{%link store/book.pdf %}) con capitoli di introduzione e sulla regressione.
+* Prima versione delle[`note`{:.codelink}]({{ site.baseurl }}{%link store/book.pdf %}) con capitoli di introduzione e sulla regressione.
+* [Introduzione](http://ruder.io/optimizing-gradient-descent/) al metodo della discesa del gradiente con panoramica sulle sue varianti 
 
 
