@@ -10,6 +10,7 @@ header: no
 
 
 1. [`mnist_keras.`{:.codelink}]({{ site.baseurl }}{%link codici/mnist_keras.ipynb %}) Riconoscimento caratteri (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/mnist_keras.ipynb)
+1. [`loss.`{:.codelink}]({{ site.baseurl }}{%link codici/loss.ipynb %}) Considerazioni su loss functions e loro ottimizzazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/loss.ipynb)
 1. [`overfitting.`{:.codelink}]({{ site.baseurl }}{%link codici/overfitting.ipynb %}) Illustrazione overfitting (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/overfitting.ipynb)
 1. [`regression.`{:.codelink}]({{ site.baseurl }}{%link codici/regression.ipynb %}) Esempi di regressione mediante scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/regression.ipynb)
 1. [`linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/linregr_gradient.ipynb)
@@ -18,7 +19,6 @@ header: no
 Raccolta di programmi utilizzati nei precedenti a.a., inseriti a scopo indicativo. 
 
 1. [`iris.`{:.codelink}]({{ site.baseurl }}{%link codici/iris.py %}) Visualizzazione del dataset Iris (script)
-1. [`linregrsk.`{:.codelink}]({{ site.baseurl }}{%link codici/linregrsk.py %}) Regressione lineare su scikit-learn (script)
 1. [`linregr.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr.py %}) Visualizzazione andamento errore in regressione (script)
 1. [`BetaBernoulli.`{:.codelink}]({{ site.baseurl }}{%link codici/BetaBernoulli.ipynb %}) Esempio di inferenza bayesiana di probabilità p di una Bernoulli (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/BetaBernoulli.ipynb)
 1. [`ModelSelection.`{:.codelink}]({{ site.baseurl }}{%link codici/model_selection.ipynb %}) Esempio di model selection con test set e con information criteria (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1718/blob/master/codici/model_selection.ipynb)
