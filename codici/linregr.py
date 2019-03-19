@@ -1,11 +1,34 @@
 # -*- coding: utf-8 -*-
-
-# visualizzazione dell'andamento della funzione di errore quadratico nella regressione 
+# Visualizzazione dell'andamento della funzione di errore quadratico nella regressione
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import seaborn as sns
+
+# +
+plt.style.use('fivethirtyeight')
+
+plt.rcParams['font.family'] = 'sans-serif'
+plt.rcParams['font.serif'] = 'Ubuntu'
+plt.rcParams['font.monospace'] = 'Ubuntu Mono'
+plt.rcParams['font.size'] = 10
+plt.rcParams['axes.labelsize'] = 10
+plt.rcParams['axes.labelweight'] = 'bold'
+plt.rcParams['axes.titlesize'] = 10
+plt.rcParams['xtick.labelsize'] = 8
+plt.rcParams['ytick.labelsize'] = 8
+plt.rcParams['legend.fontsize'] = 10
+plt.rcParams['figure.titlesize'] = 12
+plt.rcParams['image.cmap'] = 'jet'
+plt.rcParams['image.interpolation'] = 'none'
+plt.rcParams['figure.figsize'] = (16, 8)
+plt.rcParams['lines.linewidth'] = 2
+plt.rcParams['lines.markersize'] = 8
+
+colors = ['xkcd:pale orange', 'xkcd:sea blue', 'xkcd:pale red', 'xkcd:sage green', 'xkcd:terra cotta', 'xkcd:dull purple', 'xkcd:teal', 'xkcd:goldenrod', 'xkcd:cadet blue', 
+          'xkcd:scarlet']
+# -
 
 # definisce un vettore di colori
 colors = sns.color_palette("husl", 4)
@@ -13,7 +36,7 @@ colors = sns.color_palette("husl", 4)
 sns.set(style="darkgrid", context='paper', palette=colors, rc={"figure.figsize": (16, 8),'image.cmap': 'jet', 'lines.linewidth':.7})
 
 # legge i dati in dataframe pandas
-data = pd.read_csv("cars.csv", delimiter=',', header=0, names=['X','y'])
+data = pd.read_csv("../dataset/cars.csv", delimiter=',', header=0, names=['X','y'])
 
 # calcola dimensione dei dati
 n = len(data)
@@ -22,7 +45,7 @@ n = len(data)
 fig = plt.figure()
 fig.patch.set_facecolor('white')
 ax = fig.gca()
-ax.scatter(data['X'], data['y'], s=20,c='r', marker='o', alpha=.5)
+ax.scatter(data['X'], data['y'], s=40,c='r', marker='o', alpha=.5)
 plt.xlabel(u'Velocità in mph', fontsize=14)
 plt.ylabel('Distanza di arresto in ft', fontsize=14)
 plt.show()
@@ -78,3 +101,5 @@ plt.ylabel(r"$w_1$", fontsize=12)
 plt.title(r"Errore quadratico medio al variare dei coefficienti $w_0,w_1$", fontsize=12)
 fig.colorbar(im, shrink=0.5, aspect=7, cmap=plt.cm.jet)
 plt.show()
+
+
