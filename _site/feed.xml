@@ -9,6 +9,24 @@
 		<atom:link href="http://localhost:4000/ml1819/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Lezione rimandata</title>
+				<link>http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</link>
+				<pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Per motivi di salute, la lezione di martedì 26-3-2019 è annullata e rimandata a data da definire.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 4</title>
+				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
+				<pubDate>Thu, 21 Mar 2019 00:00:00 +0100</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
 				<title>Lezione 3</title>
 				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
 				<pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
