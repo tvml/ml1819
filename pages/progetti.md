@@ -1,8 +1,5 @@
 ---
 layout: page
-format: blog-index
-# Don't index these pages dear Google.
-noindex: true
 title: "Progetti"
 #subheadline: "Informazioni"
 teaser: ""
@@ -10,26 +7,9 @@ permalink: /progetti/
 header: no
 ---
 
-Si fornisce un primo elenco di possibili progetti per il corso di ML. Per ogni progetto, si fornisce un link ad una pagina di descrizione del progetto stesso e di accesso al relativo dataset.
+## Progetti
 
-L'elenco potrà essere esteso nei prossimi giorni. Un ulteriore elenco verrà fornito per i progetti comuni ai corsi di ML ed di WMR.
-
-* [Aritmia](http://archive.ics.uci.edu/ml/datasets/Arrhythmia)
-* [Bank Marketing](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
-* [Census](http://archive.ics.uci.edu/ml/datasets/Census+Income)
-* [Credit card](http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
-* [MNIST](http://yann.lecun.com/exdb/mnist/)
-
-Inoltre, si propongono i tre temi seguenti, corrispondenti a competizioni lanciate a suo tempo su [Kaggle](https://www.kaggle.com). 
-
-* [Pulsar](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star) predizione di pulsar in astrofisica
-* [Insurance](https://www.kaggle.com/c/prudential-life-insurance-assessment) predizione coefficiente di rischio per polizze di assicurazione
-* [Restaurant](https://www.kaggle.com/c/restaurant-revenue-prediction) predizione ricavi annuali di un ristorante
-
-Si noti che per le tre competizioni esistono su Kaggle gruppi di discussione con proposte di soluzione. Per questi progetti si suggerisce quindi anche un esame di quanto discusso e un raffronto con le soluzioni proposte.
-
-Si ricorda, infine, la possibilità di effettuare progetti comuni per il corso di ML e per quello di WMR. Alcuni titoli proposti sono elencati sul sito di quel corso.
-
+### Modalità di realizzazione dei progetti 
 
 Tutti i progetti prevedono la scrittura, utilizzando il linguaggio Python, di:
 
@@ -40,5 +20,8 @@ offerte dalle librerie software adottate, il programma potrà essere uno script 
 I progetti vanno realizzati in gruppi di due studenti. Per le competition Kaggle e i progetti comuni può essere considerata, se richiesta, la possibilità di gruppi di tre. In casi particolari, infine, è possibile anche prevedere, se motivata, la possibilità di progetti sviluppati singolarmente.
 
  
+### Progetti proposti
+
+*da definire*
 
  
