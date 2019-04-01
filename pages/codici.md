@@ -18,6 +18,9 @@ header: no
 1. [`linregr_samples.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_samples.ipynb %}) Apprendimento sequenziale in bayesian regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/linregr_samples.ipynb)
 1. [`linregr_predict.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_predict.ipynb %}) Distribuzione predittiva in fully bayesian regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/linregr_predict.ipynb)
 1. [`beta_bernoulli.`{:.codelink}]({{ site.baseurl }}{%link codici/BetaBernoulli.ipynb %}) Modello Beta-Bernoulli (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/BetaBernoulli.ipynb)
-
+1. [`equiv_kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/equiv_kernel.ipynb %}) Calcolo e visualizzazione del kernel equivalente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/equiv_kernel.ipynb)
+1. [`LDA.`{:.codelink}]({{ site.baseurl }}{%link codici/lda.ipynb %}) Classificazione mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/lda.ipynb)
+1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/lda_dimred.ipynb)
+1. [`Perceptron.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Perceptron (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/perceptron.ipynb)
 
 

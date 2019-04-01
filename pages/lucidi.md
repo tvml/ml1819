@@ -12,4 +12,6 @@ header: no
 1. [`Probabilità e statistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probstat.pdf %}) Richiami di probabilità e statistica
 1. [`Bayes.`{:.filelink}]({{ site.baseurl }}{%link slides/bayesian.pdf %}) Fondamenti di statistica bayesiana
 1. [`Inferenza.`{:.filelink}]({{ site.baseurl }}{%link slides/model_inference.pdf %}) Inferenza probabilistica
+1. [`Regressione.`{:.filelink}]({{ site.baseurl }}{%link slides/regression.pdf %}) Regressione lineare
+1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/linear_classification.pdf %}) Classificazione lineare
 
