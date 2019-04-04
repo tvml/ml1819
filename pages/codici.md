@@ -22,5 +22,6 @@ header: no
 1. [`LDA.`{:.codelink}]({{ site.baseurl }}{%link codici/lda.ipynb %}) Classificazione mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/lda.ipynb)
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/lda_dimred.ipynb)
 1. [`Perceptron.`{:.codelink}]({{ site.baseurl }}{%link codici/perceptron.ipynb %}) Perceptron (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/perceptron.ipynb)
+1. [`Class_regr.`{:.codelink}]({{ site.baseurl }}{%link codici/class_regr.ipynb %}) Classificazione binaria mediante regressione lineare (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/class_regr.ipynb)
 
 
