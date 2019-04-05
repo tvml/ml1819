@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/ml1819/</id>
 	<title>Machine learning</title>
-	<updated>2019-04-04T10:10:41+02:00</updated>
+	<updated>2019-04-05T09:41:28+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -24,6 +24,66 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 7</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 7" />
+			<updated>2019-04-05T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-04-05T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 6</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 6" />
+			<updated>2019-04-03T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-04-03T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
