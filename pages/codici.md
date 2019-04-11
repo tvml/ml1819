@@ -23,5 +23,11 @@ header: no
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/lda_dimred.ipynb)
 1. [`Perceptron.`{:.codelink}]({{ site.baseurl }}{%link codici/perceptron.ipynb %}) Perceptron (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/perceptron.ipynb)
 1. [`Class_regr.`{:.codelink}]({{ site.baseurl }}{%link codici/class_regr.ipynb %}) Classificazione binaria mediante regressione lineare (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/class_regr.ipynb)
+1. [`GDA lineare.`{:.codelink}]({{ site.baseurl }}{%link codici/gda.ipynb %}) Classificazione mediante GDA con covarianza comune (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gda.ipynb)
+1. [`GDA.`{:.codelink}]({{ site.baseurl }}{%link codici/class_regr.ipynb %}) Classificazione mediante GDA nel caso generale (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gdaquad.ipynb)
+1. [`GDA lineare in scikit-learn.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-lin-sk-cv.ipynb %}) Classificazione mediante GDA con covarianza comune implementata in scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gda-lin-sk-cv.ipynb)
+1. [`GDA in scikit-learn.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-sk-cv.ipynb %}) Classificazione mediante GDA (caso generale) implementata in scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gda-sk-cv.ipynb)
+1. [`Logistic regression.`{:.codelink}]({{ site.baseurl }}{%link codici/logreg.ipynb %}) Classificazione mediante logistic regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/logreg.ipynb)
+1. [`Logistic regression con regolarizzazione.`{:.codelink}]({{ site.baseurl }}{%link codici/logregregbf.ipynb %}) Classificazione mediante logistic regression con regolarizzazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/logregregbf.ipynb)
 
 

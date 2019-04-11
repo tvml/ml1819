@@ -14,4 +14,6 @@ header: no
 1. [`Inferenza.`{:.filelink}]({{ site.baseurl }}{%link slides/model_inference.pdf %}) Inferenza probabilistica
 1. [`Regressione.`{:.filelink}]({{ site.baseurl }}{%link slides/regression.pdf %}) Regressione lineare
 1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/linear_classification.pdf %}) Classificazione lineare
+1. [`Classificatori Naive Bayes.`{:.filelink}]({{ site.baseurl }}{%link slides/naive_bayes.pdf %}) Classificatori Naive Bayes
+1. [`Classificazione probabilitica.`{:.filelink}]({{ site.baseurl }}{%link slides/probabilistic_classification.pdf %}) Classificazione probabilistica
 
