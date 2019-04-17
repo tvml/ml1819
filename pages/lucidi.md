@@ -16,5 +16,6 @@ header: no
 1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/linear_classification.pdf %}) Metodi di classificazione lineare
 1. [`Naive Bayes.`{:.filelink}]({{ site.baseurl }}{%link slides/naive_bayes.pdf %}) Classificatori Naive Bayes
 1. [`Classificazione probabilistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probabilistic_classification.pdf %}) Metodi di classificazione lineare probabilistica: GDA, Logistic regression
+1. [`Metodi non parametrici.`{:.filelink}]({{ site.baseurl }}{%link slides/nonparametric.pdf %}) Metodi non parametrici di classificazione e regressione
 1. [`SVM.`{:.filelink}]({{ site.baseurl }}{%link slides/svm.pdf %}) Support vector machines
 

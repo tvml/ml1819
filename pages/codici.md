@@ -29,5 +29,8 @@ header: no
 1. [`GDA in scikit-learn.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-sk-cv.ipynb %}) Classificazione mediante GDA (caso generale) implementata in scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gda-sk-cv.ipynb)
 1. [`Logistic regression.`{:.codelink}]({{ site.baseurl }}{%link codici/logreg.ipynb %}) Classificazione mediante logistic regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/logreg.ipynb)
 1. [`Logistic regression con regolarizzazione.`{:.codelink}]({{ site.baseurl }}{%link codici/logregregbf.ipynb %}) Classificazione mediante logistic regression con regolarizzazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/logregregbf.ipynb)
+1. [`Naive bayes.`{:.codelink}]({{ site.baseurl }}{%link codici/naivebayes.ipynb %}) Classificazione naive bayes di documenti (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/naivebayes.ipynb)
+1. [`Parzen windows.`{:.codelink}]({{ site.baseurl }}{%link codici/parzen.ipynb %}) Applicazione delle Parzen windows alla classificazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/parzen.ipynb)
+1. [`Knn.`{:.codelink}]({{ site.baseurl }}{%link codici/knn.ipynb %}) Classificazione mediante k nearest neighbor (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/knn.ipynb)
 
 
