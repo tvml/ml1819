@@ -32,5 +32,7 @@ header: no
 1. [`Naive bayes.`{:.codelink}]({{ site.baseurl }}{%link codici/naivebayes.ipynb %}) Classificazione naive bayes di documenti (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/naivebayes.ipynb)
 1. [`Parzen windows.`{:.codelink}]({{ site.baseurl }}{%link codici/parzen.ipynb %}) Applicazione delle Parzen windows alla classificazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/parzen.ipynb)
 1. [`Knn.`{:.codelink}]({{ site.baseurl }}{%link codici/knn.ipynb %}) Classificazione mediante k nearest neighbor (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/knn.ipynb)
+1. [`Local regression.`{:.codelink}]({{ site.baseurl }}{%link codici/local_regr.ipynb %}) Local regression mediante funzioni kernel (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/local_regr.ipynb)
+1. [`Gaussian process.`{:.codelink}]({{ site.baseurl }}{%link codici/gp.ipynb %}) Regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gp.ipynb)
 
 
