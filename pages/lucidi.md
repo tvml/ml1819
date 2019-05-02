@@ -18,4 +18,5 @@ header: no
 1. [`Classificazione probabilistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probabilistic_classification.pdf %}) Metodi di classificazione lineare probabilistica: GDA, Logistic regression
 1. [`Metodi non parametrici.`{:.filelink}]({{ site.baseurl }}{%link slides/nonparametric.pdf %}) Metodi non parametrici di classificazione e regressione
 1. [`SVM.`{:.filelink}]({{ site.baseurl }}{%link slides/svm.pdf %}) Support vector machines
+1. [`Reti neurali.`{:.filelink}]({{ site.baseurl }}{%link slides/neural_networks.pdf %}) Introduzione alle reti neurali
 
