@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/ml1819/</id>
 	<title>Machine learning</title>
-	<updated>2019-04-14T12:06:33+02:00</updated>
+	<updated>2019-05-07T10:04:59+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -24,6 +24,194 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/</id>
+			<title>Lezioni su deep learning</title>
+			<link href="http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/" rel="alternate" type="text/html" title="Lezioni su deep learning" />
+			<updated>2019-05-07T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/">&lt;p&gt;Come preannunciato, nel corso della settimana 13-17 maggio, le lezioni saranno dedicate ai temi del Deep Learning. Le ore di lezione del corso saranno condivise con il corso di Web Mining and Retrieval, con il seguente calendario complessivo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lunedì 13 h.14 aula B8 Ingegneria (2 ore)&lt;/li&gt;
+  &lt;li&gt;Martedì 14 h.14.15 aula G2B Sogene (3 ore)&lt;/li&gt;
+  &lt;li&gt;Mercoledì 15 h.9.30 aula B8 Ingegneria (2 ore)&lt;/li&gt;
+  &lt;li&gt;Giovedì 15 h.11.30 aula B8 Ingegneria (2 ore)&lt;/li&gt;
+  &lt;li&gt;Giovedì 14 h.14.15 aula G2B Sogene (3 ore)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2019-05-07T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 13</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 13" />
+			<updated>2019-05-02T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-05-02T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</id>
+			<title>Lezione rimandata</title>
+			<link href="http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/" rel="alternate" type="text/html" title="Lezione rimandata" />
+			<updated>2019-04-30T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/">&lt;p&gt;La lezione di martedì 30-4-2019 è annullata e rimandata a data da definire.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2019-04-30T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 12</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 12" />
+			<updated>2019-04-23T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-04-23T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 11</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 11" />
+			<updated>2019-04-18T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-04-18T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 10</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 10" />
+			<updated>2019-04-16T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-04-16T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
@@ -143,186 +331,6 @@
 			
 
 			<published>2019-04-02T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 5</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 5" />
-			<updated>2019-03-28T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-03-28T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</id>
-			<title>Lezione rimandata</title>
-			<link href="http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/" rel="alternate" type="text/html" title="Lezione rimandata" />
-			<updated>2019-03-26T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/">&lt;p&gt;Per motivi di salute, la lezione di martedì 26-3-2019 è annullata e rimandata a data da definire.&lt;/p&gt;
-</content>
-
-			
-				<category term="comunicazioni" />
-			
-			
-
-			<published>2019-03-26T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 4</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 4" />
-			<updated>2019-03-21T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-03-21T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 3</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 3" />
-			<updated>2019-03-19T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-03-19T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/comunicazioni/orario/</id>
-			<title>Orario di inizio lezioni</title>
-			<link href="http://localhost:4000/ml1819/comunicazioni/orario/" rel="alternate" type="text/html" title="Orario di inizio lezioni" />
-			<updated>2019-03-15T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/orario/">&lt;p&gt;L’orario di inizio delle lezioni è anticipato, da martedì 19 marzo, alle ore 14.15&lt;/p&gt;
-</content>
-
-			
-				<category term="comunicazioni" />
-			
-			
-
-			<published>2019-03-15T00:00:00+01:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 2</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 2" />
-			<updated>2019-03-14T00:00:00+01:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-03-14T00:00:00+01:00</published>
 		</entry>
 	
 </feed>

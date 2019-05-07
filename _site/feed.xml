@@ -9,6 +9,68 @@
 		<atom:link href="http://localhost:4000/ml1819/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Lezioni su deep learning</title>
+				<link>http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/</link>
+				<pubDate>Tue, 07 May 2019 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Come preannunciato, nel corso della settimana 13-17 maggio, le lezioni saranno dedicate ai temi del Deep Learning. Le ore di lezione del corso saranno condivise con il corso di Web Mining and Retrieval, con il seguente calendario complessivo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lunedì 13 h.14 aula B8 Ingegneria (2 ore)&lt;/li&gt;
+  &lt;li&gt;Martedì 14 h.14.15 aula G2B Sogene (3 ore)&lt;/li&gt;
+  &lt;li&gt;Mercoledì 15 h.9.30 aula B8 Ingegneria (2 ore)&lt;/li&gt;
+  &lt;li&gt;Giovedì 15 h.11.30 aula B8 Ingegneria (2 ore)&lt;/li&gt;
+  &lt;li&gt;Giovedì 14 h.14.15 aula G2B Sogene (3 ore)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 13</title>
+				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
+				<pubDate>Thu, 02 May 2019 00:00:00 +0200</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione rimandata</title>
+				<link>http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</link>
+				<pubDate>Tue, 30 Apr 2019 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;La lezione di martedì 30-4-2019 è annullata e rimandata a data da definire.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 12</title>
+				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
+				<pubDate>Tue, 23 Apr 2019 00:00:00 +0200</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 11</title>
+				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
+				<pubDate>Thu, 18 Apr 2019 00:00:00 +0200</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
+				<title>Lezione 10</title>
+				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
+				<pubDate>Tue, 16 Apr 2019 00:00:00 +0200</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
+			</item>
+		
+			<item>
 				<title>Lezione 9</title>
 				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
 				<pubDate>Thu, 11 Apr 2019 00:00:00 +0200</pubDate>
@@ -39,60 +101,6 @@
 				<title>Lezione 6</title>
 				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
 				<pubDate>Tue, 02 Apr 2019 00:00:00 +0200</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 5</title>
-				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
-				<pubDate>Thu, 28 Mar 2019 00:00:00 +0100</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione rimandata</title>
-				<link>http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</link>
-				<pubDate>Tue, 26 Mar 2019 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;Per motivi di salute, la lezione di martedì 26-3-2019 è annullata e rimandata a data da definire.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 4</title>
-				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
-				<pubDate>Thu, 21 Mar 2019 00:00:00 +0100</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 3</title>
-				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
-				<pubDate>Tue, 19 Mar 2019 00:00:00 +0100</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Orario di inizio lezioni</title>
-				<link>http://localhost:4000/ml1819/comunicazioni/orario/</link>
-				<pubDate>Fri, 15 Mar 2019 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;L’orario di inizio delle lezioni è anticipato, da martedì 19 marzo, alle ore 14.15&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml1819/comunicazioni/orario/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione 2</title>
-				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
-				<pubDate>Thu, 14 Mar 2019 00:00:00 +0100</pubDate>
 				<description>
 </description>
 				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
