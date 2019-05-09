@@ -25,6 +25,7 @@ header: no
 1. [`Titanic.`{:.datalink}]({{ site.baseurl }}{%link dataset/titanic.csv %}) Dataset Titanic.
 1. [`TestSet.`{:.datalink}]({{ site.baseurl }}{%link dataset/testSet.txt %}) Dataset per logistic regression.
 1. [`Esami.`{:.datalink}]({{ site.baseurl }}{%link dataset/esami.txt %}) Dataset esami per binary classification.
+1. [`Cifre.`{:.datalink}]({{ site.baseurl }}{%link dataset/digits.mat %}) Dataset MNIST immagini cifre numeriche.
 
 
 

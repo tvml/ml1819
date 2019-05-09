@@ -34,5 +34,7 @@ header: no
 1. [`Knn.`{:.codelink}]({{ site.baseurl }}{%link codici/knn.ipynb %}) Classificazione mediante k nearest neighbor (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/knn.ipynb)
 1. [`Local regression.`{:.codelink}]({{ site.baseurl }}{%link codici/local_regr.ipynb %}) Local regression mediante funzioni kernel (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/local_regr.ipynb)
 1. [`Gaussian process.`{:.codelink}]({{ site.baseurl }}{%link codici/gp.ipynb %}) Regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gp.ipynb)
+1. [`SVM.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_xor.ipynb %}) Support vector machine su dataset di tipo XOR (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/svm_xor.ipynb)
+1. [`Neural.`{:.codelink}]({{ site.baseurl }}{%link codici/neural.ipynb %}) MLP a tre livelli con implementazione della backpropagation (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/neural.ipynb)
 
 
