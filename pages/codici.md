@@ -37,5 +37,6 @@ header: no
 1. [`SVM.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_xor.ipynb %}) Support vector machine su dataset di tipo XOR (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/svm_xor.ipynb)
 1. [`Backprop.`{:.codelink}]({{ site.baseurl }}{%link codici/backprop.ipynb %}) Backpropagation in MLP a 3 layer (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/backprop.ipynb)
 1. [`PCA.`{:.codelink}]({{ site.baseurl }}{%link codici/pca.ipynb %}) Principal component analysis (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/pca.ipynb)
+1. [`PCA e compressione.`{:.codelink}]({{ site.baseurl }}{%link codici/PCA_austen.ipynb %}) Compressione mediante PCA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/PCA_austen.ipynb)
 
 
