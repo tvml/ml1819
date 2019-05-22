@@ -20,4 +20,6 @@ header: no
 1. [`SVM.`{:.filelink}]({{ site.baseurl }}{%link slides/svm.pdf %}) Support vector machines
 1. [`Kernel.`{:.filelink}]({{ site.baseurl }}{%link slides/kernel.pdf %}) Funzioni kernel
 1. [`Reti neurali.`{:.filelink}]({{ site.baseurl }}{%link slides/neural_networks.pdf %}) Introduzione alle reti neurali
+1. [`PCA.`{:.filelink}]({{ site.baseurl }}{%link slides/pca.pdf %}) Principal component analysis e LSA
+1. [`Probabilistic PCA.`{:.filelink}]({{ site.baseurl }}{%link slides/prob_pca.pdf %}) Probabilistic PCA e Factor analysis
 

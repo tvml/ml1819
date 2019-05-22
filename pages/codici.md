@@ -38,5 +38,6 @@ header: no
 1. [`Backprop.`{:.codelink}]({{ site.baseurl }}{%link codici/backprop.ipynb %}) Backpropagation in MLP a 3 layer (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/backprop.ipynb)
 1. [`PCA.`{:.codelink}]({{ site.baseurl }}{%link codici/pca.ipynb %}) Principal component analysis (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/pca.ipynb)
 1. [`PCA e compressione.`{:.codelink}]({{ site.baseurl }}{%link codici/PCA_austen.ipynb %}) Compressione mediante PCA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/PCA_austen.ipynb)
+1. [`Eigenfaces.`{:.codelink}]({{ site.baseurl }}{%link codici/eigenfaces.ipynb %}) Riconoscimento di volti mediante PCA e SVM (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/eigenfaces.ipynb)
 
 
