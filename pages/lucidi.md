@@ -24,5 +24,5 @@ header: no
 1. [`Probabilistic PCA.`{:.filelink}]({{ site.baseurl }}{%link slides/prob_pca.pdf %}) Probabilistic PCA e Factor analysis
 1. [`Decision trees.`{:.filelink}]({{ site.baseurl }}{%link slides/decision_trees.pdf %}) Alberi di decisione
 1. [`Ensemble.`{:.filelink}]({{ site.baseurl }}{%link slides/ensemble.pdf %}) Bagging e boosting
-1. [`Clustering.`{:.filelink}]({{ site.baseurl }}{%link slides/Clustering.pdf %}) Clustering
+1. [`Clustering.`{:.filelink}]({{ site.baseurl }}{%link slides/clustering.pdf %}) Clustering
 
