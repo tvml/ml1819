@@ -9,6 +9,24 @@
 		<atom:link href="http://localhost:4000/ml1819/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Appelli sessione estiva</title>
+				<link>http://localhost:4000/ml1819/comunicazioni/appelli-sessione-estiva/</link>
+				<pubDate>Tue, 28 May 2019 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Gli appelli di esame per la sessione estiva sono fissati alle seguenti date:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Martedì 2 luglio 2019, alle ore 10, studio del docente&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Venerdì 19 luglio 2019, alle ore 10, studio del docente&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1819/comunicazioni/appelli-sessione-estiva/</guid>
+			</item>
+		
+			<item>
 				<title>Lezione 21</title>
 				<link>http://localhost:4000/ml1819/lezioni/lezione/</link>
 				<pubDate>Thu, 23 May 2019 00:00:00 +0200</pubDate>
@@ -95,15 +113,6 @@
 				<description>
 </description>
 				<guid isPermaLink="true">http://localhost:4000/ml1819/lezioni/lezione/</guid>
-			</item>
-		
-			<item>
-				<title>Lezione rimandata</title>
-				<link>http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</link>
-				<pubDate>Tue, 30 Apr 2019 00:00:00 +0200</pubDate>
-				<description>&lt;p&gt;La lezione di martedì 30-4-2019 è annullata e rimandata a data da definire.&lt;/p&gt;
-</description>
-				<guid isPermaLink="true">http://localhost:4000/ml1819/comunicazioni/lezione-rimandata/</guid>
 			</item>
 		
 	</channel>
