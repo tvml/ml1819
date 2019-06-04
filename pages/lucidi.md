@@ -25,4 +25,5 @@ header: no
 1. [`Decision trees.`{:.filelink}]({{ site.baseurl }}{%link slides/decision_trees.pdf %}) Alberi di decisione
 1. [`Ensemble.`{:.filelink}]({{ site.baseurl }}{%link slides/ensemble.pdf %}) Bagging e boosting
 1. [`Clustering.`{:.filelink}]({{ site.baseurl }}{%link slides/clustering.pdf %}) Clustering
+1. [`Mixtures.`{:.filelink}]({{ site.baseurl }}{%link slides/mixtures.pdf %}) Mixture models e applicazione al clustering
 

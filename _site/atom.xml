@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/ml1819/</id>
 	<title>Machine learning</title>
-	<updated>2019-05-29T16:31:18+02:00</updated>
+	<updated>2019-06-04T12:49:38+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -24,6 +24,96 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/2019-05-30-lezione/</id>
+			<title></title>
+			<link href="http://localhost:4000/ml1819/lezioni/2019-05-30-lezione/" rel="alternate" type="text/html" title="" />
+			<updated>2019-06-04T12:49:38+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/2019-05-30-lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-06-04T12:49:38+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 24</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 24" />
+			<updated>2019-06-04T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-06-04T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 22</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 22" />
+			<updated>2019-05-28T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-05-28T00:00:00+02:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/ml1819/comunicazioni/appelli-sessione-estiva/</id>
@@ -242,104 +332,6 @@
 			
 
 			<published>2019-05-09T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 14</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 14" />
-			<updated>2019-05-07T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-07T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/</id>
-			<title>Lezioni su deep learning</title>
-			<link href="http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/" rel="alternate" type="text/html" title="Lezioni su deep learning" />
-			<updated>2019-05-07T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/lezioni-deep-learning/">&lt;p&gt;Come preannunciato, nel corso della settimana 13-17 maggio, le lezioni saranno dedicate ai temi del Deep Learning. Le ore di lezione del corso saranno condivise con il corso di Web Mining and Retrieval, con il seguente calendario complessivo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lunedì 13 h.14 aula B8 Ingegneria (2 ore)&lt;/li&gt;
-  &lt;li&gt;Martedì 14 h.14.15 aula G2B Sogene (3 ore)&lt;/li&gt;
-  &lt;li&gt;Mercoledì 15 h.9.30 aula B8 Ingegneria (2 ore)&lt;/li&gt;
-  &lt;li&gt;Giovedì 16 h.11.30 aula B8 Ingegneria (2 ore)&lt;/li&gt;
-  &lt;li&gt;Giovedì 16 h.14.15 aula G2B Sogene (3 ore)&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-
-			
-				<category term="comunicazioni" />
-			
-			
-
-			<published>2019-05-07T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 13</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 13" />
-			<updated>2019-05-02T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-02T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
