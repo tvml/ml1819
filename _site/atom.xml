@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/ml1819/</id>
 	<title>Machine learning</title>
-	<updated>2019-06-04T12:49:38+02:00</updated>
+	<updated>2019-08-03T11:03:59+02:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -26,10 +26,10 @@
 
 	
 		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/2019-05-30-lezione/</id>
-			<title></title>
-			<link href="http://localhost:4000/ml1819/lezioni/2019-05-30-lezione/" rel="alternate" type="text/html" title="" />
-			<updated>2019-06-04T12:49:38+02:00</updated>
+			<id>http://localhost:4000/ml1819/comunicazioni/appelli-sessione-autunnale/</id>
+			<title>Appelli sessione autunnale</title>
+			<link href="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-autunnale/" rel="alternate" type="text/html" title="Appelli sessione autunnale" />
+			<updated>2019-08-03T00:00:00+02:00</updated>
 
 			
 				
@@ -44,15 +44,24 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/2019-05-30-lezione/">
+			<content type="html" xml:base="http://localhost:4000/ml1819/comunicazioni/appelli-sessione-autunnale/">&lt;p&gt;Gli appelli di esame per la sessione autunnale sono fissati alle seguenti date:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Venerdì 13 settembre 2019, alle ore 10, studio del docente&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lunedì 30 settembre 2019, alle ore 15, studio del docente&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </content>
 
 			
-				<category term="lezioni" />
+				<category term="comunicazioni" />
 			
 			
 
-			<published>2019-06-04T12:49:38+02:00</published>
+			<published>2019-08-03T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
@@ -83,6 +92,36 @@
 			
 
 			<published>2019-06-04T00:00:00+02:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
+			<title>Lezione 23</title>
+			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 23" />
+			<updated>2019-05-30T00:00:00+02:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
+</content>
+
+			
+				<category term="lezioni" />
+			
+			
+
+			<published>2019-05-30T00:00:00+02:00</published>
 		</entry>
 	
 		<entry>
@@ -302,36 +341,6 @@
 			
 
 			<published>2019-05-13T00:00:00+02:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/ml1819/lezioni/lezione/</id>
-			<title>Lezione 15</title>
-			<link href="http://localhost:4000/ml1819/lezioni/lezione/" rel="alternate" type="text/html" title="Lezione 15" />
-			<updated>2019-05-09T00:00:00+02:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/ml1819/lezioni/lezione/">
-</content>
-
-			
-				<category term="lezioni" />
-			
-			
-
-			<published>2019-05-09T00:00:00+02:00</published>
 		</entry>
 	
 </feed>
